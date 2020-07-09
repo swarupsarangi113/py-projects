@@ -88,5 +88,5 @@ This is what your program does:
 
 * zigzag
 ---
-Prints the below paper
-![Output-Image](https://github.com/swarupsarangi113/py-projects/blob/master/Projects%20from%20Auotmate%20the%20Boring%20Stuff/zigzag-output.png)
+Prints the pattern as shown in the image
+![Output-Image](https://github.com/swarupsarangi113/py-projects/blob/master/Projects%20from%20Automate%20the%20Boring%20Stuff/zigzag-output.png)
