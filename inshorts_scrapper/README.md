@@ -1,4 +1,4 @@
-## Description
+## Inshorts Scrapper
 ---
 In this script, I have used BeautifulScoup library to perform the below operations
 
