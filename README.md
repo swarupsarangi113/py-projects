@@ -1,11 +1,12 @@
 # Projects
-The are a collections of beginner levels projects.
-
-Contents (Click on the link to see the Problem Statement)
+The are a collections of beginner levels projects. I will be adding them from time to time.
 ___
-1. [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md "Bin2Dec")
-1. [Address-Book](https://github.com/swarupsarangi113/py-projects/blob/master/Address-Book/README.md "Problem Desription for Address-Book")
-1. [Projects From Automate the Boring Stuff With Python](https://github.com/swarupsarangi113/py-projects/tree/master/Projects%20from%20Automate%20the%20Boring%20Stuff)
-1. [Inshorts Scrapper](https://github.com/swarupsarangi113/py-projects/blob/master/imdb%20scrapper/README.md)
-1. [Imdb Scrapper](https://github.com/swarupsarangi113/py-projects/blob/master/inshorts_scrapper/README.md)
+
+1. Address-Book
+1. Image Site Downloader
+1. Imdb Scrapper
+1. Inshorts Scrapper
+1. Link Verification
+1. Projects From Automate the Boring Stuff With Python
+1. Google Scrapper
 1. Google Scrapper
