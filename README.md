@@ -9,4 +9,3 @@ ___
 1. Link Verification
 1. Projects From Automate the Boring Stuff With Python
 1. Google Scrapper
-1. Google Scrapper
