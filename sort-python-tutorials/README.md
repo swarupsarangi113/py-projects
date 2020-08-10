@@ -7,8 +7,8 @@ arrange them by assigning numbers by order of which it should be watched and it 
 
 1. Before executing the script
 
-![before_script]()
+![before_script](https://github.com/swarupsarangi113/py-projects/blob/master/sort-python-tutorials/previews/before_script.png)
 
 1. After executing the script
 
-![after_script]()
+![after_script](https://github.com/swarupsarangi113/py-projects/blob/master/sort-python-tutorials/previews/after_script.png)
