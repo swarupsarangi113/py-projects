@@ -13,7 +13,7 @@ Previews
 ---
 
 1. Run the python script in cmd and see the screenshot below\
-![cmd]()
+![cmd](https://github.com/swarupsarangi113/py-projects/blob/master/covid19india.org%20scrapper/previews/cmd.png)
 
 2. Use any csv reader online or Microsoft Excel to read the .csv file after the script completes execution\
-![csv_file]()
+![csv_file](https://github.com/swarupsarangi113/py-projects/blob/master/covid19india.org%20scrapper/previews/csv_file.png)
